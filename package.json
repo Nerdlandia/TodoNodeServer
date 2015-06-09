@@ -1,0 +1,16 @@
+{
+  "name": "NodeServer",
+  "version": "1.0.0",
+  "description": "REST services for GlobalTodo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^8.6.0",
+    "joi": "^6.4.3",
+    "pg": "^4.3.0"
+  }
+}
